@@ -2,7 +2,7 @@
 Experimenting with Lora devices like Sensecap T1000-E Lora to make a buzzer between devices, one device clicks a button, the other buzzez.
 
 Initial testing involves Sensecap T1000-E (Lora version) device, it might work on non-lora version, sold as "Meshtastic" version but I didn't test yet.
-Also in future, I might expand this to mode devices like SenseCap NRF kit, which would involve changing pin definitions in code.
+Also in future, I might expand this to more devices like SenseCap NRF kit, which would involve changing pin definitions in code.
 
 Getting started
 
